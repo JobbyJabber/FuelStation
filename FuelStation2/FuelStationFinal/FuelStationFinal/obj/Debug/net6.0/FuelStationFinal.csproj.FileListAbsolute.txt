@@ -1,0 +1,15 @@
+C:\Users\Hubert K\RiderProjects\FuelStationFinal\FuelStationFinal\bin\Debug\net6.0\FuelStationFinal.exe
+C:\Users\Hubert K\RiderProjects\FuelStationFinal\FuelStationFinal\bin\Debug\net6.0\FuelStationFinal.deps.json
+C:\Users\Hubert K\RiderProjects\FuelStationFinal\FuelStationFinal\bin\Debug\net6.0\FuelStationFinal.runtimeconfig.json
+C:\Users\Hubert K\RiderProjects\FuelStationFinal\FuelStationFinal\bin\Debug\net6.0\FuelStationFinal.dll
+C:\Users\Hubert K\RiderProjects\FuelStationFinal\FuelStationFinal\bin\Debug\net6.0\FuelStationFinal.pdb
+C:\Users\Hubert K\RiderProjects\FuelStationFinal\FuelStationFinal\obj\Debug\net6.0\FuelStationFinal.csproj.AssemblyReference.cache
+C:\Users\Hubert K\RiderProjects\FuelStationFinal\FuelStationFinal\obj\Debug\net6.0\FuelStationFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hubert K\RiderProjects\FuelStationFinal\FuelStationFinal\obj\Debug\net6.0\FuelStationFinal.AssemblyInfoInputs.cache
+C:\Users\Hubert K\RiderProjects\FuelStationFinal\FuelStationFinal\obj\Debug\net6.0\FuelStationFinal.AssemblyInfo.cs
+C:\Users\Hubert K\RiderProjects\FuelStationFinal\FuelStationFinal\obj\Debug\net6.0\FuelStationFinal.csproj.CoreCompileInputs.cache
+C:\Users\Hubert K\RiderProjects\FuelStationFinal\FuelStationFinal\obj\Debug\net6.0\FuelStationFinal.dll
+C:\Users\Hubert K\RiderProjects\FuelStationFinal\FuelStationFinal\obj\Debug\net6.0\refint\FuelStationFinal.dll
+C:\Users\Hubert K\RiderProjects\FuelStationFinal\FuelStationFinal\obj\Debug\net6.0\FuelStationFinal.pdb
+C:\Users\Hubert K\RiderProjects\FuelStationFinal\FuelStationFinal\obj\Debug\net6.0\FuelStationFinal.genruntimeconfig.cache
+C:\Users\Hubert K\RiderProjects\FuelStationFinal\FuelStationFinal\obj\Debug\net6.0\ref\FuelStationFinal.dll
